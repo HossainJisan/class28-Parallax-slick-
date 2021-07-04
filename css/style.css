@@ -1,0 +1,14 @@
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+.box{
+	margin: 0 15px;
+	/*width: 200px !important;*/
+	height: 200px;
+
+}
+.box img{
+
+	width: 100%;
+}
